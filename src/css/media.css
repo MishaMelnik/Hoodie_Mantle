@@ -1,0 +1,23 @@
+/* xl <= Extra extra large (xxl) */
+@media (max-width: 1400px) {
+
+    .showcase__content {
+        max-width: 1200px;
+        margin: auto;
+    }
+
+}
+
+/* Extra large (xl) */
+@media (min-width: 1200px) {
+    .text {
+        font-size: 18px;
+    }
+}
+
+/* Extra extra large (xxl) */
+@media (min-width: 1400px) {
+    .text {
+        font-size: 22px;
+    }
+}
